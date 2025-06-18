@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @LoneShinoda
-- 👀 I’m interested in AI & Programming. 
+- 👋 Hi, I’m @soethinzarlat
+- - 👀 I’m interested in AI & Programming. 
 - 🌱 I’m currently learning Machine Learning, Deep Learning & Programming Languages. 
 - 💞️ I’m looking to collaborate on some fun projects. 
 - 📫 Reach me @ loneshinoda@gmail.com 
